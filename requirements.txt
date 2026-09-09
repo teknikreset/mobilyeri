@@ -1,0 +1,1 @@
+# Harici Python paketi gerekmiyor; proje Python standart kütüphanesini kullanır.
